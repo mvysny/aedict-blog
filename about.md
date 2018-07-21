@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+## Multi-Functional Dictionary Every Japanese Learner Needs
 
-### More Information
+Save several hundred dollars/euros, no hardware dictionary necessary. The only Japanese dictionary for Android worth paying for.
 
-A place to include any other types of information that you'd like to include about yourself.
+Links:
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+* The official [Aedict home page](http://www.aedict.eu/)
+* Suggests improvements and report bugs at [Aedict Issues](https://github.com/mvysny/aedict/issues)
