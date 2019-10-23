@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Daijirin
+title: Daijirin 大辞林
 ---
 
-Aedict allows you to download the Daijirin J-J (Japanese-Japanese) dictionary to
+Aedict allows you to download the Daijirin 大辞林 J-J (Japanese-Japanese) dictionary to
 your phone. Please follow these steps:
 
 1. You need to create an account on [Aedict Online](https://aedict-online.eu/) if you don't have one yet.
