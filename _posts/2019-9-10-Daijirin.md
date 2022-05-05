@@ -27,7 +27,7 @@ If you need any more information, please feel free to ask it in the
 [Daijirin EPWING Support Thread](https://groups.google.com/forum/#!msg/aedict-users/6s_yBJ9xakE/hE7pCvBcAgAJ).
 Please feel free to ask questions on the [Aedict Users Mailing List](https://groups.google.com/forum/#!forum/aedict-users).
 
-== FAQ ==
+## FAQ ##
 
 Q: Will the installation Daijirin J-J disable the default JMDict J-E dictionary?
 
