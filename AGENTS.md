@@ -26,7 +26,7 @@ Every fact lives in exactly one of these; the others link to it.
 - `about.md`, `404.md`, `index.html` — the standalone pages and the post list.
 - `_layouts/`, `_includes/`, `_sass/`, `style.scss` — the Jekyll Now v1.2.0 theme.
 - `_config.yml` — site name, footer links, `baseurl`, permalink, kramdown, plugins.
-- `images/` — the 404 page's image and the theme's leftover sample screenshots.
+- `images/` — images for posts and pages; so far only the 404 page's.
 
 ## Conventions
 
