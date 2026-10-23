@@ -15,7 +15,7 @@ Every fact lives in exactly one of these; the others link to it.
 
 ## Invariants
 
-- **A post's URL is the title part of its filename, for good.** `permalink: /:title/` makes `_posts/2019-9-10-Daijirin.md` live at `/aedict-blog/Daijirin/`; renaming the file breaks the `../Daijirin/` links in other posts and every inbound link from outside.
+- **A post's URL is the title part of its filename, for good.** `permalink: /:title/` makes `_posts/2019-09-10-Daijirin.md` live at `/aedict-blog/Daijirin/`; renaming the file breaks the `../Daijirin/` links in other posts and every inbound link from outside.
 - **Site-internal URLs carry `{{ site.baseurl }}` or are relative.** The site lives under `/aedict-blog`, so a root-absolute `/images/x.png` 404s.
 - **A repo-only file goes into `exclude:` in `_config.yml`.** Jekyll publishes every file it isn't told to skip, `AGENTS.md` included.
 - **Only plugins the `github-pages` gem whitelists.** Pages builds in legacy mode with no Gemfile; anything else is silently ignored.
@@ -31,7 +31,7 @@ Every fact lives in exactly one of these; the others link to it.
 ## Conventions
 
 - **Jekyll Now on GitHub Pages.** Jekyll and the theme own the rendering; this repo owns the posts, the pages and `_config.yml`.
-- **Post files are `_posts/YYYY-M-D-Title.md`** with `layout: post` and `title:` front matter; no leading zeros needed.
+- **Post files are `_posts/YYYY-MM-DD-Title.md`**, zero-padded, with `layout: post` and `title:` front matter.
 - **Markdown is kramdown in GFM mode**, rouge highlighting; posts use `#` headings below the layout's title.
 - **Pages are root-level `.md` files** with `layout: page`, `title:` and an explicit `permalink:`.
 - **Theme files stay upstream's** unless a change is needed; the site's identity lives in `_config.yml`.
