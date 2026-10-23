@@ -35,7 +35,7 @@ Every fact lives in exactly one of these; the others link to it.
 - **Markdown is kramdown in GFM mode**, rouge highlighting; posts use `#` headings below the layout's title.
 - **Pages are root-level `.md` files** with `layout: page`, `title:` and an explicit `permalink:`.
 - **Theme files stay upstream's** unless a change is needed; the site's identity lives in `_config.yml`.
-- **Pushing to `master` publishes.** No branches or PRs; commit messages are a placeholder (`a`).
+- **Pushing to `master` publishes.** No branches or PRs; commit messages say what changed (older history uses a placeholder `a`).
 
 ## Commands
 
