@@ -17,7 +17,7 @@ is very limited. What's even worse, every EPWING dictionary uses its own separat
 format, which makes it impossible to create one tool which extracts data from EPWING.
 
 However, if you manage to get the data out of the EPWING dictionary into JMDict format,
-just let me know at martin@vysny.me and I will happily add the dictionary into Aedict.
+just let me know at support@aedict.eu and I will happily add the dictionary into Aedict.
 Since the dictionaries are commercial, the dictionaries will only be available for users
 which provide a proof-of-purchase. See [Daijirin 大辞泉](../Daijirin/) for more details.
 

@@ -48,7 +48,7 @@ Aedict Online has accumulated quite a few features over the years, and I'd like 
 those which people actually use. Please head over to
 [Which Aedict Online features do you use?](https://github.com/mvysny/aedict/issues/1001)
 and give a 👍 to the features you use, or leave a comment if something's missing.
-No GitHub account? Just e-mail me at `martin@vysny.me`.
+No GitHub account? Just e-mail me at `support@aedict.eu`.
 
 If you find a bug in Aedict 3.52.0, please report it at the
 [Aedict bug tracker](https://github.com/mvysny/aedict/issues).
