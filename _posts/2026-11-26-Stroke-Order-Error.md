@@ -18,11 +18,11 @@ dictionaries never touches your notepad, tags, recently viewed entries or SRS st
 # What happened
 
 The dictionaries are updated every month, and the November 26 update refreshed the stroke order
-diagrams too. Aedict downloads such updates in the background, while it's running. Aedict 3.55 and
+diagrams too. Aedict downloads such updates in the background, while it's running. Aedict 3.55.0 and
 older then kept using the old file's table of contents to read the new file, and so failed to find
 the strokes, until Aedict was restarted.
 
-The fix is in **Aedict 3.56**: it notices the new file and reads it from the start. Until 3.56
+The fix is in **Aedict 3.55.1**: it notices the new file and reads it from the start. Until 3.55.1
 reaches you, the restart above is all it takes. [Aedict Online](https://aedict-online.eu) had the
 same bug; it's fixed there already.
 
